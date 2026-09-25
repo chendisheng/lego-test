@@ -1,3 +1,10 @@
-# lego-test
+# Generated Digital Lego App
 
-GitHub delivery acceptance repository.
+This project was generated from the approved platform specification.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```

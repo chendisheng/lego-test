@@ -1,0 +1,6 @@
+id: project_26baf70bc7f321502f882427
+name: "MVP API Smoke Test"
+recipe_version: default-web-mvp@1.0.0
+spec_version: platform-mvp@0.1.0
+spec_status: draft
+status: draft
